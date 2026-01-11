@@ -1,7 +1,6 @@
 package com.luizfelipe.webservice.entities;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.luizfelipe.webservice.entities.enums.OrderStatus;
 import jakarta.persistence.*;
 
